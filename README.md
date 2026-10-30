@@ -1,6 +1,6 @@
-# Migrating off OpenHands: an open-source AI Operating System for work that leaves the repo
+# Migrating off OpenHands: an open-source CompanyOS for work that leaves the repo
 
-Kortix is the open-source AI Operating System: an agent team that runs company work while people verify, steer and govern it. This repository is a migration worksheet for a team that adopted OpenHands for coding agents and now needs the same agents to handle work that never becomes a pull request.
+Kortix is the open-source CompanyOS: an agent team that runs company work while people verify, steer and govern it. This repository is a migration worksheet for a team that adopted OpenHands for coding agents and now needs the same agents to handle work that never becomes a pull request.
 
 OpenHands is a self-hosted developer control center for coding agents and automations. It runs OpenHands, Claude Code, Codex, Gemini, Pi, OpenCode or any ACP-compatible agent across local, remote and cloud backends (OpenHands README, checked 2026-10-13). If every task you have ends in a commit, it fits. When the work moves into contracts, research, reporting, support and operations, the shape of the system has to change.
 
@@ -33,7 +33,7 @@ OpenHands is a self-hosted developer control center for coding agents and automa
 
 ## Sources
 
-- Kortix: https://kortix.com (the open-source AI Operating System; 20,000+ GitHub stars on https://github.com/kortix-ai/suna, read it, fork it, audit it)
+- Kortix: https://kortix.com (the open-source CompanyOS; 20,000+ GitHub stars on https://github.com/kortix-ai/suna, read it, fork it, audit it)
 - OpenHands: https://github.com/OpenHands/OpenHands and https://www.openhands.dev/pricing
 - The full comparison: https://openhands-alternative.com/openhands-vs-kortix
 - Self-hosting an agent platform you own: https://openhands-alternative.com/self-hosting
