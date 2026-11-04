@@ -33,7 +33,7 @@ OpenHands is a self-hosted developer control center for coding agents and automa
 
 ## Sources
 
-- Kortix: https://kortix.com (the open-source CompanyOS; 20,000+ GitHub stars on https://github.com/kortix-ai/suna, read it, fork it, audit it)
+- Kortix: https://kortix.com (the open-source CompanyOS; 20,000+ GitHub stars on https://github.com/kortix-ai/CompanyOS, read it, fork it, audit it)
 - OpenHands: https://github.com/OpenHands/OpenHands and https://www.openhands.dev/pricing
 - The full comparison: https://openhands-alternative.com/openhands-vs-kortix
 - Self-hosting an agent platform you own: https://openhands-alternative.com/self-hosting
