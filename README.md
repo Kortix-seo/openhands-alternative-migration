@@ -26,17 +26,17 @@ OpenHands is a self-hosted developer control center for coding agents and automa
 
 ## Pricing, as published
 
-- Free: $0 with 500 credits per month and 1 project.
+- Free: $0 with 500 credits per month on a person's first workspace (later workspaces start with 0).
 - Credits: choose a monthly amount; 5,000 credits a month is $50, and members are unlimited and free.
 - Self-hosting Kortix is free; Enterprise adds Cloud, VPC or on-prem deployment (contact Kortix).
 - OpenHands publishes its own tiers on its pricing page; OpenHands Cloud's free tier caps conversations per day, and its self-hosted path is free.
 
 ## Sources
 
-- Kortix: https://kortix.com (the open-source CompanyOS; 20,000+ GitHub stars on https://github.com/kortix-ai/CompanyOS, read it, fork it, audit it)
+- Kortix: https://kortix.com (the open-source CompanyOS; read it, fork it, audit it at https://github.com/kortix-ai/CompanyOS)
 - OpenHands: https://github.com/OpenHands/OpenHands and https://www.openhands.dev/pricing
 - The full comparison: https://openhands-alternative.com/openhands-vs-kortix
-- Self-hosting an agent platform you own: https://openhands-alternative.com/self-hosting
+- Self-hosting the open-source CompanyOS you own: https://openhands-alternative.com/self-hosting
 - What each option costs per month: https://openhands-alternative.com/openhands-pricing
 - Is OpenHands open source, and what that means for a company: https://openhands-alternative.com/is-openhands-open-source
 - Kortix vs OpenHands, in full: https://kortix.com/blog/kortix-vs-openhands
